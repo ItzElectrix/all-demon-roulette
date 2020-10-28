@@ -1,0 +1,17 @@
+{
+  "name": "geometry-dash-demon-roulette",
+  "version": "1.0.0",
+  "description": "Similar to the Extreme Demon Roulette by Npesta, this roulette features all demons in the game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Flox",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.1.0",
+    "discord.js": "^12.3.1",
+    "pm2": "^4.4.1",
+    "request": "^2.88.2"
+  }
+}
