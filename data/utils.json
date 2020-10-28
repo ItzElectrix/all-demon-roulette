@@ -12,16 +12,16 @@
         "suggestions": "767515995324547093",
         "errors": "768532937837772810"
     },
-    "guildID": "767509885146759208",
+    "guildID": "id of support server",
     "success": "743975403034509333",
     "cross": "744310641166123188",
     "play": "744386993395597383",
     "failed": "744386894418280480",
     "info": "752182595584000161",
-    "invLink": "https://discord.com/oauth2/authorize?client_id=743956587143495691&permissions=270400&scope=bot",
-    "serverLink": "https://discord.gg/pbcQeWt",
+    "invLink": "link to bot oauth2",
+    "serverLink": "link to discord support server",
     "ID": {
-        "owner": "296390924215386131"
+        "owner": "your discord server id"
     },
     "images": {
         "x": "https://i.imgur.com/DPBJOOD.png"
