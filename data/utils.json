@@ -1,23 +1,23 @@
 {
     "demons": {
-        "easy": "743975176227782787",
-        "medium": "743975218963546154",
-        "hard": "743975271543210035",
-        "insane": "743975326031282246",
-        "extreme": "743975367106363483"
+        "easy": "easy demon emoji id",
+        "medium": "medium demon emoji id",
+        "hard": "hard demon emoji id",
+        "insane": "insane demon emoji id",
+        "extreme": "extreme demon emoji id"
     },
     "channels": {
-        "guild": "767515947455348747",
-        "roulette": "767515975288619078",
-        "suggestions": "767515995324547093",
-        "errors": "768532937837772810"
+        "guild": "guild log channel id",
+        "roulette": "roulette log channel id",
+        "suggestions": "suggestion log channel id",
+        "errors": "error log channel id"
     },
     "guildID": "id of support server",
-    "success": "743975403034509333",
-    "cross": "744310641166123188",
-    "play": "744386993395597383",
-    "failed": "744386894418280480",
-    "info": "752182595584000161",
+    "success": "success emoji id",
+    "cross": "cross emoji id",
+    "play": "play emoji id",
+    "failed": "failed emoji id",
+    "info": "info emoji id",
     "invLink": "link to bot oauth2",
     "serverLink": "link to discord support server",
     "ID": {
