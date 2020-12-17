@@ -25,5 +25,7 @@
     },
     "images": {
         "x": "https://i.imgur.com/DPBJOOD.png"
-    }
+    },
+    "ownerTags": "your user id",
+    "botVersion": "v1.2.0"
 }
