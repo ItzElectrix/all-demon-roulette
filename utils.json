@@ -21,11 +21,12 @@
     "invLink": "link to bot oauth2",
     "serverLink": "link to discord support server",
     "ID": {
-        "owner": "your discord server id"
+        "owner": "your discord server id",
+        "ownerIDs": []
     },
     "images": {
         "x": "https://i.imgur.com/DPBJOOD.png"
     },
-    "ownerTags": "your user id",
-    "botVersion": "v1.2.0"
+    "botOwnerTag": "your user id",
+    "botVersion": "v1.3.0"
 }
