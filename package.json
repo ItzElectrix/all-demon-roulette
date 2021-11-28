@@ -9,8 +9,8 @@
   "author": "Flox",
   "license": "ISC",
   "dependencies": {
-    "better-sqlite3": "^7.1.0",
-    "discord.js": "^12.3.1",
+    "better-sqlite3": "^7.4.4",
+    "discord.js": "^13.3.1",
     "pm2": "^4.4.1",
     "request": "^2.88.2"
   }
